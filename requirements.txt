@@ -1,2 +1,8 @@
 # Data Version control
 dvc
+
+# Important Libraries for ML
+pandas
+numpy
+scikit-learn
+matplotlib
